@@ -1,0 +1,11 @@
+C:\Users\PC GAMER\Documents\kpyvara\microservices\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\MsscBeerServiceApplication.java
+C:\Users\PC GAMER\Documents\kpyvara\microservices\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\web\model\BeerStyleEnum.java
+C:\Users\PC GAMER\Documents\kpyvara\microservices\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\web\mappers\BeerMapper.java
+C:\Users\PC GAMER\Documents\kpyvara\microservices\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\web\controller\MvcExceptionHandler.java
+C:\Users\PC GAMER\Documents\kpyvara\microservices\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\bootstrap\BeerLoader.java
+C:\Users\PC GAMER\Documents\kpyvara\microservices\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\domain\Beer.java
+C:\Users\PC GAMER\Documents\kpyvara\microservices\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\web\model\BeerPagedList.java
+C:\Users\PC GAMER\Documents\kpyvara\microservices\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\repositories\BeerRepository.java
+C:\Users\PC GAMER\Documents\kpyvara\microservices\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\web\controller\BeerController.java
+C:\Users\PC GAMER\Documents\kpyvara\microservices\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\web\mappers\DateMapper.java
+C:\Users\PC GAMER\Documents\kpyvara\microservices\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\web\model\BeerDto.java
